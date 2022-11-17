@@ -3,7 +3,7 @@
 ## _Features_
 - _<b>Register</b>_
 - _<b>Login</b>_
-- _<b>Redirect To Dashboard</b>_
+- _<b>Redirect To Dashboard, if Logged In Successfully</b>_
 
 ## _Technology Used_
 - _<b>Node JS</b>_
