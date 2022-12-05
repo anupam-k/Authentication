@@ -15,6 +15,7 @@
 - _<b>Json Web Token</b>_
 - _<b>Bcrypt</b>_
 
+# _Mind Mapping_
 
 ## _Goal_
 ![image](https://user-images.githubusercontent.com/91872149/203979924-76514e4f-877c-468a-ace5-5b1bb57b18c4.png)
